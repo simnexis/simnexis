@@ -216,8 +216,12 @@ The process is simple:
 🧬 <b>GenAI · LLMs · NLP · ML Models</b>
 </p>
 
-## 🌍 Open Source Contributions
+## 🌸 Things I Actually Made
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simnexis&bg_color=0D1117&color=58A6FF&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph">
+
+<a href="https://github.com/simnexis/Bloomly">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=simnexis&repo=Bloomly&theme=github_dark&hide_border=true&description_lines_count=2" width="420" alt="Bloomly">
+</a>
+
 </p>
