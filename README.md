@@ -2,7 +2,7 @@
 
 # Simran
 
-**AI/ML Engineer in Progress · GenAI Explorer · Software Builder**
+**Somewhere between `git push` and artificial intelligence.**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1800&pause=650&color=58A6FF&center=true&vCenter=true&width=650&lines=404%3A+sleep+not+found.;model+go+brrr.;currently+in+my+AI+era.;brain.exe+loading...;debugging+IRL.;one+more+commit.;plot+twist%3A+it+worked.;AI+%2B+caffeine.;building+things+that+learn." alt="Typing Animation">
 
