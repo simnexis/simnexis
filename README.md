@@ -1,11 +1,6 @@
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&duration=900&pause=150&color=58A6FF&center=true&vCenter=true&width=700&height=90&lines=SIMRAN;S1MR4N;SIMRAN_404;SIMRAN.exe;%5B%2F%2F+SIMRAN_%5D;S%CC%B7I%CC%B7M%CC%B7R%CC%B7A%CC%B7N%CC%B7;SIMRAN%3A%3AONLINE;SIMRAN%E2%9A%A1"
-  alt="Simran"
->
-
-<br>
+# Simran
 
 **Somewhere between `git push` and artificial intelligence.**
 
@@ -14,9 +9,11 @@
 <br>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+
 <a href="mailto:guptasimransushma@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
+
 <a href="https://www.linkedin.com/in/gupta-simran-roshan-62b567376/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -39,7 +36,6 @@
 
 </div>
 
----
 ---
 
 <table>
@@ -72,7 +68,7 @@ I learn by <strong>building &gt; breaking &gt; debugging &gt; rebuilding</strong
 <h2>⚙️ character stats</h2>
 
 <table>
-<tr><td><b>Name</b></td><td>Simran Gupta</td></tr>
+<tr><td><b>Name</b></td><td>Simran</td></tr>
 <tr><td><b>Role</b></td><td>AI/ML Engineer in Progress</td></tr>
 <tr><td><b>Focus</b></td><td>AI/ML · GenAI · NLP</td></tr>
 <tr><td><b>Languages</b></td><td>Python · Java · Dart · Kotlin</td></tr>
@@ -93,6 +89,7 @@ I learn by <strong>building &gt; breaking &gt; debugging &gt; rebuilding</strong
 </table>
 
 ---
+
 ## 🧨 Things I'm Currently Breaking
 
 <table>
@@ -130,5 +127,80 @@ I learn by <strong>building &gt; breaking &gt; debugging &gt; rebuilding</strong
 </table>
 
 > **current status:** `brain.exe has stopped responding` 🫠
+
+---
+---
+
+## 🧬 My Digital DNA
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 Brain Stuff
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,dart,kotlin,r" />
+</p>
+
+- 🤖 Machine Learning
+- ✨ Generative AI
+- 🗣️ NLP
+- 🧩 ML Models
+- 📊 Data & Big Data
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📱 Things I Make Move
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase" />
+</p>
+
+- 🎨 Material Design 3
+- 🔥 Firebase
+- 🗄️ Room Database
+- 📱 Mobile Development
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚙️ Engineering Damage
+
+- 🧩 DSA
+- 🏗️ OOP
+- 🧠 System Design
+- 🔄 Agile Software Engineering
+- 🗃️ DBMS
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Side Quests
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
+</p>
+
+- 🌐 HTML & CSS
+- ⚡ JavaScript
+- 🐙 Git & GitHub
+- 💻 VS Code
+
+</td>
+
+</tr>
+</table>
+
+> `stack.exe` is still under construction. please do not unplug. 🫠
 
 ---
