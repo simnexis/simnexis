@@ -28,7 +28,6 @@
 > **Somewhere between `git push` and Artificial Intelligence.**
 
 </div>
----
 
 <table>
 <tr>
