@@ -22,3 +22,16 @@
 </a>
 
 </div>
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=simnexis&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+
+<img src="https://img.shields.io/github/followers/simnexis?style=for-the-badge&color=7C3AED&label=FOLLOWERS" />
+
+<img src="https://img.shields.io/github/stars/simnexis?style=for-the-badge&color=F59E0B&label=STARS" />
+
+</div>
+
+<br>
