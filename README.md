@@ -183,20 +183,24 @@ The process is simple:
 </tr>
 </table>
 
-> **current status:** `brain.exe has stopped responding` 🫠
-
 ---
 
 ## 🧰 Tech I Keep Summoning
 
-<p align="center">
+<div align="center">
 
-<!-- moving icon strip -->
-[ANIMATED ICONS HERE]
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="70" height="70">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="70" height="70">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="70" height="70">
+<img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="Flutter" width="70" height="70">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="70" height="70">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="70" height="70">
 
-</p>
+</div>
 
-<table>
+<br>
+
+<table align="center">
 <tr>
 
 <td width="38%" align="center">
@@ -207,7 +211,11 @@ The process is simple:
 
 <td>
 
-Python · Java · Dart · Kotlin · JavaScript · R
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55">
+
+&nbsp;&nbsp; **Dart · Kotlin · R**
 
 </td>
 
@@ -215,7 +223,7 @@ Python · Java · Dart · Kotlin · JavaScript · R
 
 <tr>
 
-<td width="38%" align="center">
+<td align="center">
 
 ### 🤖 Things Getting Suspiciously Smart
 
@@ -223,7 +231,11 @@ Python · Java · Dart · Kotlin · JavaScript · R
 
 <td>
 
-Machine Learning · Generative AI · NLP · LLMs · ML Models
+🧠 Machine Learning &nbsp; ✦ &nbsp;
+✨ Generative AI &nbsp; ✦ &nbsp;
+🗣️ NLP &nbsp; ✦ &nbsp;
+🤖 LLMs &nbsp; ✦ &nbsp;
+🔮 ML Models
 
 </td>
 
@@ -231,7 +243,7 @@ Machine Learning · Generative AI · NLP · LLMs · ML Models
 
 <tr>
 
-<td width="38%" align="center">
+<td align="center">
 
 ### 📱 Mobile Shenanigans
 
@@ -239,7 +251,10 @@ Machine Learning · Generative AI · NLP · LLMs · ML Models
 
 <td>
 
-Flutter · Material Design 3 · Firebase · Room Database
+<img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="Flutter" width="55" height="55">
+<img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="Firebase" width="55" height="55">
+
+&nbsp;&nbsp; **Material Design 3 · Room Database**
 
 </td>
 
@@ -247,7 +262,7 @@ Flutter · Material Design 3 · Firebase · Room Database
 
 <tr>
 
-<td width="38%" align="center">
+<td align="center">
 
 ### 🗃️ Where The Data Goes
 
@@ -255,7 +270,7 @@ Flutter · Material Design 3 · Firebase · Room Database
 
 <td>
 
-DBMS · Big Data · Firebase · Room Database
+**DBMS** &nbsp; ✦ &nbsp; **Big Data** &nbsp; ✦ &nbsp; **Firebase** &nbsp; ✦ &nbsp; **Room Database**
 
 </td>
 
@@ -263,7 +278,7 @@ DBMS · Big Data · Firebase · Room Database
 
 <tr>
 
-<td width="38%" align="center">
+<td align="center">
 
 ### ⚔️ Engineering Damage
 
@@ -271,7 +286,7 @@ DBMS · Big Data · Firebase · Room Database
 
 <td>
 
-DSA · OOP · System Design · Agile Software Engineering
+**DSA** &nbsp; ✦ &nbsp; **OOP** &nbsp; ✦ &nbsp; **System Design** &nbsp; ✦ &nbsp; **Agile**
 
 </td>
 
@@ -279,15 +294,17 @@ DSA · OOP · System Design · Agile Software Engineering
 
 <tr>
 
-<td width="38%" align="center">
+<td align="center">
 
-### 🌐 Random Things I Also Know
+### 🌐 Random Things I Also Touch
 
 </td>
 
 <td>
 
-HTML · CSS · Git · GitHub · VS Code
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55">
+
+&nbsp;&nbsp; **HTML · CSS · Git · GitHub · VS Code**
 
 </td>
 
@@ -299,20 +316,22 @@ HTML · CSS · Git · GitHub · VS Code
 
 ### 🧬 The AI Corner
 
-<p align="center">
+<div align="center">
 
-🧠 Machine Learning
-&nbsp; ✦ &nbsp;
-✨ Generative AI
-&nbsp; ✦ &nbsp;
-🗣️ NLP
-&nbsp; ✦ &nbsp;
-🤖 LLMs
-&nbsp; ✦ &nbsp;
-🔮 ML Models
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60">
+&nbsp;&nbsp;
+🧠 **Machine Learning**
+&nbsp;&nbsp; ✦ &nbsp;&nbsp;
+✨ **Generative AI**
+&nbsp;&nbsp; ✦ &nbsp;&nbsp;
+🗣️ **NLP**
+&nbsp;&nbsp; ✦ &nbsp;&nbsp;
+🤖 **LLMs**
 
-</p>
+</div>
 
-> **somehow the toolbox keeps getting bigger.**
+<br>
+
+> **the toolbox keeps growing. the sleep schedule doesn't.**
 
 ---
