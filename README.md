@@ -22,12 +22,12 @@
 <img src="https://img.shields.io/github/stars/simnexis?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=F59E0B" alt="GitHub Stars">
 </div>
 
-<div align="center">
-> **Somewhere between `git push` and Artificial Intelligence.**
-</div>
-
 <br>
+<div align="center">
 
+> **Somewhere between `git push` and Artificial Intelligence.**
+
+</div>
 ---
 
 <table>
