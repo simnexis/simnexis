@@ -215,3 +215,11 @@ The process is simple:
 <p align="center">
 🧬 <b>GenAI · LLMs · NLP · ML Models</b>
 </p>
+
+## 🌍 Open Source Contributions
+
+> occasionally sending code into the wild.
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simnexis&bg_color=00000000&color=58A6FF&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Graph">
+</p>
