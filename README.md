@@ -70,8 +70,6 @@ The process is simple:
 
 <td width="40%" valign="top">
 
-<td width="40%" valign="top">
-
 <h2>⚙️ character stats</h2>
 
 <table>
@@ -197,7 +195,7 @@ The process is simple:
 
 <td width="50%" valign="top">
 
-### 🧠 Brain Stuff
+### 🧠 Brain.exe Inventory
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,dart,kotlin,r" />
@@ -205,15 +203,16 @@ The process is simple:
 
 - 🤖 Machine Learning
 - ✨ Generative AI
+- 🧠 LLMs
 - 🗣️ NLP
 - 🧩 ML Models
-- 📊 Data & Big Data
+- 📊 Big Data
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📱 Things I Make Move
+### 📱 Things I Somehow Made Work
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase" />
@@ -232,7 +231,7 @@ The process is simple:
 
 <td width="50%" valign="top">
 
-### ⚙️ Engineering Damage
+### ⚔️ Engineering Skill Tree
 
 - 🧩 DSA
 - 🏗️ OOP
@@ -244,7 +243,7 @@ The process is simple:
 
 <td width="50%" valign="top">
 
-### 🌐 Side Quests
+### 🌐 Side-Quest Loot
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
@@ -260,6 +259,6 @@ The process is simple:
 </tr>
 </table>
 
-> `stack.exe` is still under construction. please do not unplug. 🫠
+> `stack.exe` is still compiling personality... please wait. 🫠
 
 ---
