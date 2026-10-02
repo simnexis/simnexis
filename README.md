@@ -189,149 +189,92 @@ The process is simple:
 
 <div align="center">
 
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="70" height="70">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="70" height="70">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="70" height="70">
-<img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="Flutter" width="70" height="70">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="70" height="70">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="70" height="70">
+<img src="https://skillicons.dev/icons?i=python,java,dart,kotlin,flutter,firebase,js,r,html,css,git,github,vscode&theme=dark" alt="Tech Stack">
 
 </div>
 
 <br>
 
 <table align="center">
-<tr>
 
+<tr>
 <td width="38%" align="center">
 
 ### 🧠 Brain Fuel
 
 </td>
-
 <td>
 
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55">
-
-&nbsp;&nbsp; **Dart · Kotlin · R**
+**Python · Java · Dart · Kotlin · JavaScript · R**
 
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center">
 
 ### 🤖 Things Getting Suspiciously Smart
 
 </td>
-
 <td>
 
-🧠 Machine Learning &nbsp; ✦ &nbsp;
-✨ Generative AI &nbsp; ✦ &nbsp;
-🗣️ NLP &nbsp; ✦ &nbsp;
-🤖 LLMs &nbsp; ✦ &nbsp;
-🔮 ML Models
+**Machine Learning · GenAI · NLP · LLMs · ML Models**
 
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center">
 
 ### 📱 Mobile Shenanigans
 
 </td>
-
 <td>
 
-<img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="Flutter" width="55" height="55">
-<img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="Firebase" width="55" height="55">
-
-&nbsp;&nbsp; **Material Design 3 · Room Database**
+**Flutter · Material Design 3 · Firebase · Room Database**
 
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center">
 
-### 🗃️ Where The Data Goes
+### 🗃️ Data Damage
 
 </td>
-
 <td>
 
-**DBMS** &nbsp; ✦ &nbsp; **Big Data** &nbsp; ✦ &nbsp; **Firebase** &nbsp; ✦ &nbsp; **Room Database**
+**DBMS · Big Data**
 
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center">
 
 ### ⚔️ Engineering Damage
 
 </td>
-
 <td>
 
-**DSA** &nbsp; ✦ &nbsp; **OOP** &nbsp; ✦ &nbsp; **System Design** &nbsp; ✦ &nbsp; **Agile**
+**DSA · OOP · System Design · Agile Software Engineering**
 
 </td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🌐 Random Things I Also Touch
-
-</td>
-
-<td>
-
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55">
-
-&nbsp;&nbsp; **HTML · CSS · Git · GitHub · VS Code**
-
-</td>
-
 </tr>
 
 </table>
 
 <br>
 
-### 🧬 The AI Corner
-
 <div align="center">
 
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60">
-&nbsp;&nbsp;
-🧠 **Machine Learning**
-&nbsp;&nbsp; ✦ &nbsp;&nbsp;
-✨ **Generative AI**
-&nbsp;&nbsp; ✦ &nbsp;&nbsp;
-🗣️ **NLP**
-&nbsp;&nbsp; ✦ &nbsp;&nbsp;
-🤖 **LLMs**
+`🧠 ML` &nbsp; ✦ &nbsp;
+`✨ GenAI` &nbsp; ✦ &nbsp;
+`🗣️ NLP` &nbsp; ✦ &nbsp;
+`🤖 LLMs`
 
 </div>
 
-<br>
-
-> **the toolbox keeps growing. the sleep schedule doesn't.**
+> **the toolbox keeps growing. the sleep schedule remains unemployed.**
 
 ---
