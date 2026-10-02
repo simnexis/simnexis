@@ -35,3 +35,40 @@
 </div>
 
 ---
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+## 👋 Who I Am
+
+I'm **Simran** — an AI/ML-focused student building toward intelligent systems through **Machine Learning, Generative AI, NLP, and practical projects**.
+
+I spend most of my time turning random ideas into code, breaking that code, fixing it, and occasionally wondering why it worked in the first place.
+
+My main stack revolves around **Python, Java, Dart, Kotlin, Flutter, and Material Design 3**, with a growing focus on **AI/ML and GenAI**.
+
+I learn by **building > breaking > debugging > rebuilding**.
+
+</td>
+
+<td width="40%" valign="top">
+
+## ⚡ At a Glance
+
+```yaml
+name:        Simran
+role:        AI/ML Engineer in Progress
+focus:       AI/ML · GenAI · NLP
+languages:   Python · Java · Dart · Kotlin
+mobile:      Flutter · Material Design 3
+models:      ML Models
+data:        DBMS · Big Data
+backend:     Firebase · Room Database
+engineering: DSA · OOP · Agile
+domain:      FinTech
+also:        JavaScript · R · HTML · CSS
+learning:    Advanced ML · GenAI
+status:      building > scrolling
+
+</td> </tr> </table>
