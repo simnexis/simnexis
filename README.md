@@ -42,7 +42,7 @@
 
 <td width="60%" valign="top">
 
-<h2>👋 Who I Am</h2>
+<h2>🫠 Who Even Am I</h2>
 
 <p>
 I'm <strong>Simran</strong> — an AI/ML-focused student building toward intelligent systems through <strong>Machine Learning, Generative AI, NLP, and practical projects</strong>.
@@ -64,10 +64,10 @@ I learn by <strong>building &gt; breaking &gt; debugging &gt; rebuilding</strong
 
 <td width="40%" valign="top">
 
-<h2>⚡ At a Glance</h2>
+<h2>⚙️ character stats</h2>
 
 <table>
-<tr><td><b>Name</b></td><td>Simran</td></tr>
+<tr><td><b>Name</b></td><td>Simran Gupta</td></tr>
 <tr><td><b>Role</b></td><td>AI/ML Engineer in Progress</td></tr>
 <tr><td><b>Focus</b></td><td>AI/ML · GenAI · NLP</td></tr>
 <tr><td><b>Languages</b></td><td>Python · Java · Dart · Kotlin</td></tr>
@@ -86,5 +86,44 @@ I learn by <strong>building &gt; breaking &gt; debugging &gt; rebuilding</strong
 
 </tr>
 </table>
+
+---
+## 🧨 Things I'm Currently Breaking
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 Making The Machines Do Stuff
+
+- 🧠 AI/ML experiments
+- 🧬 ML models
+- ✨ GenAI chaos
+- 🗣️ NLP experiments
+- 📱 Flutter apps
+- 🔥 Firebase-powered things
+- 🗄️ Room Database projects
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Stuff My Brain Is Fighting
+
+- 🧬 Advanced Machine Learning
+- 🧠 Deep Learning
+- ✨ Generative AI
+- 🗣️ NLP & LLM workflows
+- ⚙️ AI system design
+- 🐍 Python for ML
+- 🧩 DSA & problem solving
+
+</td>
+
+</tr>
+</table>
+
+> **current status:** `brain.exe has stopped responding` 🫠
 
 ---
