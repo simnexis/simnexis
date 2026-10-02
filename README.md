@@ -186,42 +186,28 @@ The process is simple:
 > **current status:** `brain.exe has stopped responding` 🫠
 
 ---
----
 
-## 🧬 My Digital DNA
+## 🧰 Tech I Keep Summoning
+
+<p align="center">
+
+<!-- moving icon strip -->
+[ANIMATED ICONS HERE]
+
+</p>
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="38%" align="center">
 
-### 🧠 Brain.exe Inventory
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,dart,kotlin,r" />
-</p>
-
-- 🤖 Machine Learning
-- ✨ Generative AI
-- 🧠 LLMs
-- 🗣️ NLP
-- 🧩 ML Models
-- 📊 Big Data
+### 🧠 Brain Fuel
 
 </td>
 
-<td width="50%" valign="top">
+<td>
 
-### 📱 Things I Somehow Made Work
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase" />
-</p>
-
-- 🎨 Material Design 3
-- 🔥 Firebase
-- 🗄️ Room Database
-- 📱 Mobile Development
+Python · Java · Dart · Kotlin · JavaScript · R
 
 </td>
 
@@ -229,36 +215,104 @@ The process is simple:
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="38%" align="center">
 
-### ⚔️ Engineering Skill Tree
-
-- 🧩 DSA
-- 🏗️ OOP
-- 🧠 System Design
-- 🔄 Agile Software Engineering
-- 🗃️ DBMS
+### 🤖 Things Getting Suspiciously Smart
 
 </td>
 
-<td width="50%" valign="top">
+<td>
 
-### 🌐 Side-Quest Loot
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
-</p>
-
-- 🌐 HTML & CSS
-- ⚡ JavaScript
-- 🐙 Git & GitHub
-- 💻 VS Code
+Machine Learning · Generative AI · NLP · LLMs · ML Models
 
 </td>
 
 </tr>
+
+<tr>
+
+<td width="38%" align="center">
+
+### 📱 Mobile Shenanigans
+
+</td>
+
+<td>
+
+Flutter · Material Design 3 · Firebase · Room Database
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="38%" align="center">
+
+### 🗃️ Where The Data Goes
+
+</td>
+
+<td>
+
+DBMS · Big Data · Firebase · Room Database
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="38%" align="center">
+
+### ⚔️ Engineering Damage
+
+</td>
+
+<td>
+
+DSA · OOP · System Design · Agile Software Engineering
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="38%" align="center">
+
+### 🌐 Random Things I Also Know
+
+</td>
+
+<td>
+
+HTML · CSS · Git · GitHub · VS Code
+
+</td>
+
+</tr>
+
 </table>
 
-> `stack.exe` is still compiling personality... please wait. 🫠
+<br>
+
+### 🧬 The AI Corner
+
+<p align="center">
+
+🧠 Machine Learning
+&nbsp; ✦ &nbsp;
+✨ Generative AI
+&nbsp; ✦ &nbsp;
+🗣️ NLP
+&nbsp; ✦ &nbsp;
+🤖 LLMs
+&nbsp; ✦ &nbsp;
+🔮 ML Models
+
+</p>
+
+> **somehow the toolbox keeps getting bigger.**
 
 ---
