@@ -2,12 +2,9 @@
 
 # Simran
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1900&pause=650&color=58A6FF&center=true&vCenter=true&width=650&lines=404%3A+sleep+not+found.;vibes+%3E+bugs.;AI+%2B+caffeine.;ship+it%3F+probably.;model+go+brrr.;code.+break.+repeat.;trust+the+process.;oops%2C+it+works.;debugging+IRL.;plot+twist%3A+bug.;just+one+more+commit.;training+my+patience.;brain.exe+loading...;works+on+my+machine.;currently+in+my+AI+era." alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1900&pause=650&color=58A6FF&center=true&vCenter=true&width=650&lines=404%3A+sleep+not+found.;vibes+%3E+bugs.;AI+%2B+caffeine.;ship+it%3F+probably.;model+go+brrr.;code.+break.+repeat.;oops%2C+it+works.;debugging+IRL.;plot+twist%3A+bug.;just+one+more+commit.;training+my+patience.;brain.exe+loading...;works+on+my+machine.;currently+in+my+AI+era." alt="Typing animation">
 
-</div>
 <br>
-
-<div align="center">
 
 <a href="https://github.com/simnexis">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -17,12 +14,11 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/gupta-simran-roshan-62b567376?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/gupta-simran-roshan-62b567376/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</div>
-<div align="center">
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=simnexis&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS">
 
@@ -32,110 +28,37 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=simnexis&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="48%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=simnexis&hide_border=true&theme=transparent" width="48%">
-
-</div>
-
-<br>
+---
 
 <div align="center">
 
 ## ✦ WHO I AM
 
+### **designing systems that learn.**
+
 </div>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+I'm a student building toward **AI/ML engineering**, with a growing focus on **Machine Learning, Generative AI, NLP, and intelligent applications**.
 
-### 🧠 AI/ML — the main quest
+I learn by building — taking concepts from theory into code, experimenting with models, developing applications, breaking things, and figuring out why they broke.
 
-I'm exploring **Artificial Intelligence, Machine Learning, and Generative AI** by turning concepts into practical projects.
+My main development stack revolves around **Python, Java, Dart, Flutter, Kotlin, and Material Design 3**, with additional experience across web development, databases, data, and software engineering.
 
-I enjoy the part where an idea goes from:
-
-`"wait... can I build this?"`
-
-to
-
-`"oh — it actually works."`
-
-Currently going deeper into **Python, ML libraries, DSA, Big Data, and intelligent systems**.
-
-</td>
-
-<td width="40%" valign="top">
+---
 
 ## 📌 At a Glance
 
 ```yaml
-name:          Simran Roshan Gupta
+name:          Simran Gupta
 role:          AI/ML Engineer in Progress
 main_quest:    AI/ML · Generative AI
 languages:     Python · Java · Dart · Kotlin
 mobile:        Flutter · Material Design 3
-ai_stack:      Machine Learning · GenAI · Python ML Libraries
+ai_stack:      Machine Learning · GenAI · NLP · ML Models
 data:          DBMS · Big Data
 engineering:   DSA · OOP · Agile Software Engineering
+database:      Room Database · Firebase
 domain:        FinTech
 also_building: JavaScript · HTML · CSS · R
 learning:      Advanced ML · GenAI · DSA
 status:        building > scrolling
----
-
-## 🚀 Currently Building & Learning
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔨 Building
-
-```text
-AI / ML
-├── Machine Learning
-├── ML Models
-├── NLP
-├── Generative AI
-└── AI-powered applications
-
-Flutter / Mobile
-├── Dart
-├── Flutter
-├── Material Design 3
-├── Room Database
-└── Firebase
-
-Software
-├── Java
-├── Kotlin
-└── DSA
-</td> <td width="50%" valign="top">
-🧪 Learning
-AI / ML
-├── Advanced ML
-├── NLP
-├── Model Development
-└── Generative AI
-
-Data
-├── DBMS
-├── Big Data
-└── Data Processing
-
-Engineering
-├── Agile Software Engineering
-├── OOP
-└── System Design
-</td> </tr> </table> <br> <div align="center">
-
-build → experiment → break → learn → rebuild
-
-</div>
