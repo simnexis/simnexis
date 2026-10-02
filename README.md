@@ -278,3 +278,20 @@ The process is simple:
 > **the toolbox keeps growing. the sleep schedule remains unemployed.**
 
 ---
+---
+
+## 🌍 Places Where The Code Escaped
+
+> occasionally I let the code leave my laptop.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simnexis)
+
+[![Repositories](https://img.shields.io/badge/Repos-Explore-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simnexis?tab=repositories)
+
+</div>
+
+<br>
+
+---
