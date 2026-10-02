@@ -87,3 +87,55 @@ domain:        FinTech
 also_building: JavaScript · HTML · CSS · R
 learning:      Advanced ML · GenAI · DSA
 status:        building > scrolling
+---
+
+## 🚀 Currently Building & Learning
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔨 Building
+
+```text
+AI / ML
+├── Machine Learning
+├── ML Models
+├── NLP
+├── Generative AI
+└── AI-powered applications
+
+Flutter / Mobile
+├── Dart
+├── Flutter
+├── Material Design 3
+├── Room Database
+└── Firebase
+
+Software
+├── Java
+├── Kotlin
+└── DSA
+</td> <td width="50%" valign="top">
+🧪 Learning
+AI / ML
+├── Advanced ML
+├── NLP
+├── Model Development
+└── Generative AI
+
+Data
+├── DBMS
+├── Big Data
+└── Data Processing
+
+Engineering
+├── Agile Software Engineering
+├── OOP
+└── System Design
+</td> </tr> </table> <br> <div align="center">
+
+build → experiment → break → learn → rebuild
+
+</div>
