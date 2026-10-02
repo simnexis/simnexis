@@ -218,8 +218,6 @@ The process is simple:
 
 ## 🌍 Open Source Contributions
 
-> occasionally sending code into the wild.
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simnexis&bg_color=00000000&color=58A6FF&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simnexis&bg_color=0D1117&color=58A6FF&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph">
 </p>
