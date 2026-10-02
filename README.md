@@ -237,3 +237,12 @@ The process is simple:
 
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/simnexis/simnexis/output/github-contribution-grid-snake.svg"
+    width="95%"
+    alt="GitHub Contribution Snake"
+  >
+</p>
