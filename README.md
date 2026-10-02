@@ -42,18 +42,52 @@
 
 </div>
 ---
+<br>
 
 <div align="center">
 
-## ✦ contribution activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simnexis&bg_color=00000000&color=58A6FF&line=7C3AED&point=F59E0B&area=true&hide_border=true" width="95%">
+## ✦ WHO I AM
 
 </div>
 
----
-<div align="center">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<img src="https://raw.githubusercontent.com/simnexis/simnexis/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+### 🧠 AI/ML — the main quest
 
-</div>
+I'm exploring **Artificial Intelligence, Machine Learning, and Generative AI** by turning concepts into practical projects.
+
+I enjoy the part where an idea goes from:
+
+`"wait... can I build this?"`
+
+to
+
+`"oh — it actually works."`
+
+Currently going deeper into **Python, ML libraries, DSA, Big Data, and intelligent systems**.
+
+</td>
+
+<td width="40%" valign="top">
+
+### ⚡ AT A GLANCE
+
+```yaml
+focus:
+  - AI / ML
+  - Generative AI
+  - Data
+
+languages:
+  - Python
+  - Java
+  - JavaScript
+  - R
+
+exploring:
+  - Big Data
+  - DBMS
+  - FinTech
+  - Agile
