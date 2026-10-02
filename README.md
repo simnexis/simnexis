@@ -35,40 +35,56 @@
 </div>
 
 ---
+---
+
 <table>
 <tr>
 
 <td width="60%" valign="top">
 
-## 👋 Who I Am
+<h2>👋 Who I Am</h2>
 
-I'm **Simran** — an AI/ML-focused student building toward intelligent systems through **Machine Learning, Generative AI, NLP, and practical projects**.
+<p>
+I'm <strong>Simran</strong> — an AI/ML-focused student building toward intelligent systems through <strong>Machine Learning, Generative AI, NLP, and practical projects</strong>.
+</p>
 
+<p>
 I spend most of my time turning random ideas into code, breaking that code, fixing it, and occasionally wondering why it worked in the first place.
+</p>
 
-My main stack revolves around **Python, Java, Dart, Kotlin, Flutter, and Material Design 3**, with a growing focus on **AI/ML and GenAI**.
+<p>
+My main stack revolves around <strong>Python, Java, Dart, Kotlin, Flutter, and Material Design 3</strong>, with a growing focus on <strong>AI/ML and GenAI</strong>.
+</p>
 
-I learn by **building > breaking > debugging > rebuilding**.
+<p>
+I learn by <strong>building &gt; breaking &gt; debugging &gt; rebuilding</strong>.
+</p>
 
 </td>
 
 <td width="40%" valign="top">
 
-## ⚡ At a Glance
+<h2>⚡ At a Glance</h2>
 
-```yaml
-name:        Simran
-role:        AI/ML Engineer in Progress
-focus:       AI/ML · GenAI · NLP
-languages:   Python · Java · Dart · Kotlin
-mobile:      Flutter · Material Design 3
-models:      ML Models
-data:        DBMS · Big Data
-backend:     Firebase · Room Database
-engineering: DSA · OOP · Agile
-domain:      FinTech
-also:        JavaScript · R · HTML · CSS
-learning:    Advanced ML · GenAI
-status:      building > scrolling
+<table>
+<tr><td><b>Name</b></td><td>Simran</td></tr>
+<tr><td><b>Role</b></td><td>AI/ML Engineer in Progress</td></tr>
+<tr><td><b>Focus</b></td><td>AI/ML · GenAI · NLP</td></tr>
+<tr><td><b>Languages</b></td><td>Python · Java · Dart · Kotlin</td></tr>
+<tr><td><b>Mobile</b></td><td>Flutter · Material Design 3</td></tr>
+<tr><td><b>Models</b></td><td>ML Models</td></tr>
+<tr><td><b>Data</b></td><td>DBMS · Big Data</td></tr>
+<tr><td><b>Backend</b></td><td>Firebase · Room Database</td></tr>
+<tr><td><b>Engineering</b></td><td>DSA · OOP · Agile</td></tr>
+<tr><td><b>Domain</b></td><td>FinTech</td></tr>
+<tr><td><b>Also</b></td><td>JavaScript · R · HTML · CSS</td></tr>
+<tr><td><b>Learning</b></td><td>Advanced ML · GenAI</td></tr>
+<tr><td><b>Status</b></td><td>building &gt; scrolling</td></tr>
+</table>
 
-</td> </tr> </table>
+</td>
+
+</tr>
+</table>
+
+---
