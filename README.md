@@ -184,114 +184,34 @@ The process is simple:
 </table>
 
 ---
-
 ## 🧰 Tech I Keep Summoning
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,dart,kotlin,flutter,firebase,js,r,html,css,git,github,vscode&theme=dark" alt="Tech Stack">
-
-</div>
-
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,dart,kotlin,flutter,firebase,js,r,html,css,git,github,vscode&theme=dark" alt="Tech Stack">
+</p>
 
 <table align="center">
-
 <tr>
-<td width="38%" align="center">
-
-### 🧠 Brain Fuel
-
-</td>
-<td>
-
-**Python · Java · Dart · Kotlin · JavaScript · R**
-
-</td>
+<td width="38%" align="center"><b>🧠 Languages & Core</b></td>
+<td>Python · Java · Dart · Kotlin · JavaScript · R</td>
 </tr>
 
 <tr>
-<td align="center">
-
-### 🤖 Things Getting Suspiciously Smart
-
-</td>
-<td>
-
-**Machine Learning · GenAI · NLP · LLMs · ML Models**
-
-</td>
+<td align="center"><b>🤖 AI / ML / GenAI</b></td>
+<td>Machine Learning · GenAI · NLP · LLMs · ML Models</td>
 </tr>
 
 <tr>
-<td align="center">
-
-### 📱 Mobile Shenanigans
-
-</td>
-<td>
-
-**Flutter · Material Design 3 · Firebase · Room Database**
-
-</td>
+<td align="center"><b>📱 Mobile & App Stuff</b></td>
+<td>Flutter · Material Design 3 · Firebase · Room Database</td>
 </tr>
 
 <tr>
-<td align="center">
-
-### 🗃️ Data Damage
-
-</td>
-<td>
-
-**DBMS · Big Data**
-
-</td>
+<td align="center"><b>🗃️ Data & Engineering</b></td>
+<td>DBMS · Big Data · DSA · OOP · System Design · Agile</td>
 </tr>
-
-<tr>
-<td align="center">
-
-### ⚔️ Engineering Damage
-
-</td>
-<td>
-
-**DSA · OOP · System Design · Agile Software Engineering**
-
-</td>
-</tr>
-
 </table>
 
-<br>
-
-<div align="center">
-
-`🧠 ML` &nbsp; ✦ &nbsp;
-`✨ GenAI` &nbsp; ✦ &nbsp;
-`🗣️ NLP` &nbsp; ✦ &nbsp;
-`🤖 LLMs`
-
-</div>
-
-> **the toolbox keeps growing. the sleep schedule remains unemployed.**
-
----
----
-
-## 🌍 Places Where The Code Escaped
-
-> occasionally I let the code leave my laptop.
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simnexis)
-
-[![Repositories](https://img.shields.io/badge/Repos-Explore-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simnexis?tab=repositories)
-
-</div>
-
-<br>
-
----
+<p align="center">
+🧬 <b>GenAI · LLMs · NLP · ML Models</b>
+</p>
