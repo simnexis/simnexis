@@ -41,3 +41,19 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=simnexis&hide_border=true&theme=transparent" width="48%">
 
 </div>
+---
+
+<div align="center">
+
+## ✦ contribution activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simnexis&bg_color=00000000&color=58A6FF&line=7C3AED&point=F59E0B&area=true&hide_border=true" width="95%">
+
+</div>
+
+---
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/simnexis/simnexis/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+
+</div>
