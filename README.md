@@ -140,10 +140,9 @@ The process is simple:
 </table>
 
 ---
-
 ## 🧨 Things I'm Currently Breaking
 
-<table>
+<table align="center" width="85%">
 <tr>
 
 <td width="50%" valign="top">
