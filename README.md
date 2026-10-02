@@ -41,7 +41,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=simnexis&hide_border=true&theme=transparent" width="48%">
 
 </div>
----
+
 <br>
 
 <div align="center">
@@ -72,22 +72,19 @@ Currently going deeper into **Python, ML libraries, DSA, Big Data, and intellige
 
 <td width="40%" valign="top">
 
-### ⚡ AT A GLANCE
+## 📌 At a Glance
 
 ```yaml
-focus:
-  - AI / ML
-  - Generative AI
-  - Data
-
-languages:
-  - Python
-  - Java
-  - JavaScript
-  - R
-
-exploring:
-  - Big Data
-  - DBMS
-  - FinTech
-  - Agile
+name:        Simran Roshan Gupta
+role:        AI/ML Engineer in Progress
+main_quest:  AI/ML · Generative AI
+languages:   Python · Java · Dart · Kotlin
+mobile:      Flutter · Material Design 3
+ai_stack:    Machine Learning · GenAI · Python ML Libraries
+data:        DBMS · Big Data
+engineering: DSA · OOP · Agile Software Engineering
+domain:      FinTech
+also_building:
+             JavaScript · HTML · CSS · R
+learning:    Advanced ML · GenAI · DSA
+status:      building > scrolling
