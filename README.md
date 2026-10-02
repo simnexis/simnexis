@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/simnexis/simnexis/main/assets/simran-glitch.svg" width="650" alt="Simran Glitch Animation">
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&duration=900&pause=150&color=58A6FF&center=true&vCenter=true&width=700&height=90&lines=SIMRAN;S1MR4N;SIMRAN_404;SIMRAN.exe;%5B%2F%2F+SIMRAN_%5D;S%CC%B7I%CC%B7M%CC%B7R%CC%B7A%CC%B7N%CC%B7;SIMRAN%3A%3AONLINE;SIMRAN%E2%9A%A1"
+  alt="Simran"
+>
+
+<br>
 
 **Somewhere between `git push` and artificial intelligence.**
 
