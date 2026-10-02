@@ -46,19 +46,24 @@
 <h2>🫠 Who Even Am I</h2>
 
 <p>
-I'm <strong>Simran</strong> — an AI/ML-focused student building toward intelligent systems through <strong>Machine Learning, Generative AI, NLP, and practical projects</strong>.
+I'm <strong>Simran</strong> — <strong>Simchan</strong> in the lore. 🧃
+Somewhere along the way I got obsessed with <strong>AI/ML, GenAI, NLP, LLMs</strong> and the idea of making computers do things that look suspiciously intelligent.
 </p>
 
 <p>
-I spend most of my time turning random ideas into code, breaking that code, fixing it, and occasionally wondering why it worked in the first place.
+I throw random ideas at a code editor and see what survives.
+Sometimes I build something cool. Sometimes I create a bug so powerful it becomes a feature.
 </p>
 
 <p>
-My main stack revolves around <strong>Python, Java, Dart, Kotlin, Flutter, and Material Design 3</strong>, with a growing focus on <strong>AI/ML and GenAI</strong>.
+My current inventory includes
+<strong>Python · Java · Dart · Kotlin · Flutter · Material Design 3 · ML Models · LLMs · Firebase · DBMS · Big Data</strong>,
+with <strong>GenAI</strong> currently occupying approximately 87% of my brain.
 </p>
 
 <p>
-I learn by <strong>building &gt; breaking &gt; debugging &gt; rebuilding</strong>.
+The process is simple:
+<strong>build → break → question reality → debug → rebuild → ship.</strong>
 </p>
 
 </td>
