@@ -215,3 +215,23 @@ The process is simple:
 </a>
 
 </p>
+## 📊 GitHub, But Make It Evidence
+
+<p align="center">
+
+<a href="https://github.com/simnexis">
+<img src="https://github-readme-stats.vercel.app/api?username=simnexis&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" height="180" alt="Simran's GitHub Stats">
+</a>
+
+<a href="https://github.com/simnexis">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simnexis&layout=compact&langs_count=6&hide_border=true&theme=github_dark" height="180" alt="Simran's Top Languages">
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=simnexis&theme=github-dark-blue&hide_border=true" width="70%" alt="Simran's GitHub Streak">
+
+</p>
+
