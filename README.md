@@ -236,13 +236,3 @@ The process is simple:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=simnexis&theme=github-dark-blue&hide_border=true" width="70%" alt="Simran's GitHub Streak">
 
 </p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/simnexis/simnexis/output/github-contribution-grid-snake.svg"
-    width="95%"
-    alt="GitHub Contribution Snake"
-  >
-</p>
