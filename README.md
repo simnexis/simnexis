@@ -1,6 +1,6 @@
 <div align="center">
 
-# Simran
+<img src="https://raw.githubusercontent.com/simnexis/simnexis/main/assets/simran-glitch.svg" width="650" alt="Simran Glitch Animation">
 
 **Somewhere between `git push` and artificial intelligence.**
 
