@@ -70,22 +70,76 @@ The process is simple:
 
 <td width="40%" valign="top">
 
+<td width="40%" valign="top">
+
 <h2>⚙️ character stats</h2>
 
 <table>
-<tr><td><b>Name</b></td><td>Simran</td></tr>
-<tr><td><b>Role</b></td><td>AI/ML Engineer in Progress</td></tr>
-<tr><td><b>Focus</b></td><td>AI/ML · GenAI · NLP</td></tr>
-<tr><td><b>Languages</b></td><td>Python · Java · Dart · Kotlin</td></tr>
-<tr><td><b>Mobile</b></td><td>Flutter · Material Design 3</td></tr>
-<tr><td><b>Models</b></td><td>ML Models</td></tr>
-<tr><td><b>Data</b></td><td>DBMS · Big Data</td></tr>
-<tr><td><b>Backend</b></td><td>Firebase · Room Database</td></tr>
-<tr><td><b>Engineering</b></td><td>DSA · OOP · Agile</td></tr>
-<tr><td><b>Domain</b></td><td>FinTech</td></tr>
-<tr><td><b>Also</b></td><td>JavaScript · R · HTML · CSS</td></tr>
-<tr><td><b>Learning</b></td><td>Advanced ML · GenAI</td></tr>
-<tr><td><b>Status</b></td><td>building &gt; scrolling</td></tr>
+<tr>
+<td><b>🪪 alias</b></td>
+<td>Simchan</td>
+</tr>
+
+<tr>
+<td><b>🎮 class</b></td>
+<td>AI/ML Builder</td>
+</tr>
+
+<tr>
+<td><b>🧠 main quest</b></td>
+<td>Make Machines Think</td>
+</tr>
+
+<tr>
+<td><b>🐍 weapons</b></td>
+<td>Python · Java · Dart · Kotlin</td>
+</tr>
+
+<tr>
+<td><b>🤖 brain DLC</b></td>
+<td>ML · GenAI · NLP · LLMs</td>
+</tr>
+
+<tr>
+<td><b>📱 side quest</b></td>
+<td>Flutter · Material Design 3</td>
+</tr>
+
+<tr>
+<td><b>🔥 backend magic</b></td>
+<td>Firebase · Room Database</td>
+</tr>
+
+<tr>
+<td><b>📊 data damage</b></td>
+<td>DBMS · Big Data</td>
+</tr>
+
+<tr>
+<td><b>⚔️ skill tree</b></td>
+<td>DSA · OOP · System Design</td>
+</tr>
+
+<tr>
+<td><b>💰 domain arc</b></td>
+<td>FinTech</td>
+</tr>
+
+<tr>
+<td><b>🧪 currently cooking</b></td>
+<td>Advanced ML · GenAI</td>
+</tr>
+
+<tr>
+<td><b>💀 known bug</b></td>
+<td>Sleep not found</td>
+</tr>
+
+<tr>
+<td><b>📈 XP</b></td>
+<td>still grinding...</td>
+</tr>
+
 </table>
 
 </td>
