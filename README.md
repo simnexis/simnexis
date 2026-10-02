@@ -39,3 +39,33 @@
 > 🤖 **building things smarter than my sleep schedule.**
 
 </div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/simnexis">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:guptasimransushma@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/gupta-simran-roshan-62b567376/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=simnexis&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS">
+
+<img src="https://img.shields.io/github/followers/simnexis?style=for-the-badge&color=7C3AED&label=FOLLOWERS">
+
+<img src="https://img.shields.io/github/stars/simnexis?style=for-the-badge&color=F59E0B&label=TOTAL+STARS">
+
+</div>
