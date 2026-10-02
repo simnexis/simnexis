@@ -1,9 +1,9 @@
-# Simran
+<div align="center">
+
+# SIMRAN
 
 ### designing systems that learn.
 
-AI/ML · Data · Software Engineering · FinTech
+**AI / ML · Data · Software Engineering · FinTech**
 
----
-
-> Building, experimenting, and learning through practical projects.
+</div>
