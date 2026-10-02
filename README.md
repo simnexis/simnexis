@@ -75,16 +75,15 @@ Currently going deeper into **Python, ML libraries, DSA, Big Data, and intellige
 ## 📌 At a Glance
 
 ```yaml
-name:        Simran Roshan Gupta
-role:        AI/ML Engineer in Progress
-main_quest:  AI/ML · Generative AI
-languages:   Python · Java · Dart · Kotlin
-mobile:      Flutter · Material Design 3
-ai_stack:    Machine Learning · GenAI · Python ML Libraries
-data:        DBMS · Big Data
-engineering: DSA · OOP · Agile Software Engineering
-domain:      FinTech
-also_building:
-             JavaScript · HTML · CSS · R
-learning:    Advanced ML · GenAI · DSA
-status:      building > scrolling
+name:          Simran Roshan Gupta
+role:          AI/ML Engineer in Progress
+main_quest:    AI/ML · Generative AI
+languages:     Python · Java · Dart · Kotlin
+mobile:        Flutter · Material Design 3
+ai_stack:      Machine Learning · GenAI · Python ML Libraries
+data:          DBMS · Big Data
+engineering:   DSA · OOP · Agile Software Engineering
+domain:        FinTech
+also_building: JavaScript · HTML · CSS · R
+learning:      Advanced ML · GenAI · DSA
+status:        building > scrolling
