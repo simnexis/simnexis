@@ -19,6 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=simnexis&style=for-the-badge&color=58A6FF&label=👀+VIEWS" alt="Profile Views">
 <img src="https://img.shields.io/github/followers/simnexis?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=7C3AED" alt="GitHub Followers">
 <img src="https://img.shields.io/github/stars/simnexis?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=F59E0B" alt="GitHub Stars">
+
 </div>
 
 <br>
@@ -37,7 +38,7 @@
 
 <p>
 I'm <strong>Simran</strong> — <strong>Simchan</strong> in the lore. 🧃
-Somewhere along the way I got obsessed with <strong>AI/ML, GenAI, NLP, LLMs</strong> and the idea of making computers do things that look suspiciously intelligent.
+Somewhere along the way I got obsessed with <strong>AI/ML, GenAI, NLP, LLMs, Computer Vision</strong> and the idea of making computers do things that look suspiciously intelligent.
 </p>
 
 <p>
@@ -63,19 +64,75 @@ The process is simple:
 <h2>⚙️ character stats</h2>
 
 <table>
-<tr><td><b>🪪 alias</b></td><td>Simchan</td></tr>
-<tr><td><b>🎮 class</b></td><td>AI/ML Builder</td></tr>
-<tr><td><b>🧠 main quest</b></td><td>Make Machines Think</td></tr>
-<tr><td><b>🐍 weapons</b></td><td>Python · Java · Dart · Kotlin</td></tr>
-<tr><td><b>🤖 brain DLC</b></td><td>ML · GenAI · NLP · LLMs</td></tr>
-<tr><td><b>📱 side quest</b></td><td>Flutter · Material Design 3</td></tr>
-<tr><td><b>🔥 backend magic</b></td><td>Firebase · Room Database</td></tr>
-<tr><td><b>📊 data damage</b></td><td>DBMS · Big Data</td></tr>
-<tr><td><b>⚔️ skill tree</b></td><td>DSA · OOP · System Design</td></tr>
-<tr><td><b>💰 domain arc</b></td><td>FinTech</td></tr>
-<tr><td><b>🧪 currently cooking</b></td><td>Advanced ML · GenAI</td></tr>
-<tr><td><b>💀 known bug</b></td><td>Sleep not found</td></tr>
-<tr><td><b>📈 XP</b></td><td>still grinding...</td></tr>
+<tr>
+<td><b>🪪 alias</b></td>
+<td>Simchan</td>
+</tr>
+
+<tr>
+<td><b>🎮 class</b></td>
+<td>AI/ML Builder</td>
+</tr>
+
+<tr>
+<td><b>🧠 main quest</b></td>
+<td>Make Machines Think</td>
+</tr>
+
+<tr>
+<td><b>🐍 weapons</b></td>
+<td>Python · Java · Dart · Kotlin</td>
+</tr>
+
+<tr>
+<td><b>🤖 brain DLC</b></td>
+<td>ML · GenAI · NLP · LLMs</td>
+</tr>
+
+<tr>
+<td><b>👁️ vision arc</b></td>
+<td>Computer Vision</td>
+</tr>
+
+<tr>
+<td><b>📱 side quest</b></td>
+<td>Flutter · Material Design 3</td>
+</tr>
+
+<tr>
+<td><b>🔥 backend magic</b></td>
+<td>Firebase · Room Database</td>
+</tr>
+
+<tr>
+<td><b>📊 data damage</b></td>
+<td>DBMS · Big Data</td>
+</tr>
+
+<tr>
+<td><b>⚔️ skill tree</b></td>
+<td>DSA · OOP · System Design</td>
+</tr>
+
+<tr>
+<td><b>💰 domain arc</b></td>
+<td>FinTech</td>
+</tr>
+
+<tr>
+<td><b>🧪 currently cooking</b></td>
+<td>Advanced ML · GenAI</td>
+</tr>
+
+<tr>
+<td><b>💀 known bug</b></td>
+<td>Sleep not found</td>
+</tr>
+
+<tr>
+<td><b>📈 XP</b></td>
+<td>still grinding...</td>
+</tr>
 </table>
 
 </td>
@@ -88,6 +145,7 @@ The process is simple:
 
 <table align="center" width="85%">
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🤖 Making The Machines Do Stuff
@@ -96,12 +154,13 @@ The process is simple:
 - 🧬 ML models
 - ✨ GenAI chaos
 - 🗣️ NLP experiments
+- 👁️ Computer Vision projects
 - 📱 Flutter apps
 - 🔥 Firebase-powered things
 - 🗄️ Room Database projects
-- 👁️ Computer vision experiments
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🧠 Stuff My Brain Is Fighting
@@ -115,48 +174,50 @@ The process is simple:
 - 🧩 DSA & problem solving
 
 </td>
+
 </tr>
 </table>
 
----
-
-## 🧠 Things I've Learned by Building
+### 🔬 Things I've Learned by Building
 
 Not just collecting tech names — actually getting my hands dirty with the concepts.
 
 <table align="center" width="85%">
 <tr>
+
 <td width="50%" valign="top">
 
-### 👁️ Computer Vision
+#### 👁️ Computer Vision
 
 - 📷 Real-time webcam frame processing
 - 🖐️ Hand landmark detection with MediaPipe
 - 🎯 Using hand positions to control visual effects
 - 🌀 Image processing with OpenCV
 - ✨ Connecting tracking data to interactive rendering
-- 🔄 Building a real-time processing pipeline
+- 🔄 Understanding a real-time processing pipeline
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🛠️ Practical Engineering
+#### 🛠️ Practical Engineering
 
 - 🐍 Creating isolated Python environments
 - 📦 Managing package dependencies and versions
 - 🔍 Debugging Python errors and API compatibility
 - 🧪 Verifying package installations and runtime behavior
 - 🌿 Using Git to track project changes
-- 🚀 Publishing and maintaining projects on GitHub
+- 🚀 Publishing projects on GitHub
 - 📝 Writing project documentation in Markdown
 
 </td>
+
 </tr>
 </table>
 
 <div align="center">
 
-*build → break → debug → understand → build better.*
+> build → break → debug → understand → rebuild → ship.
 
 </div>
 
@@ -173,18 +234,22 @@ Not just collecting tech names — actually getting my hands dirty with the conc
 <td width="38%" align="center"><b>🧠 Languages & Core</b></td>
 <td>Python · Java · Dart · Kotlin · JavaScript · R</td>
 </tr>
+
 <tr>
 <td align="center"><b>🤖 AI / ML / GenAI</b></td>
 <td>Machine Learning · GenAI · NLP · LLMs · ML Models</td>
 </tr>
+
 <tr>
 <td align="center"><b>👁️ Computer Vision</b></td>
 <td>OpenCV · MediaPipe · NumPy</td>
 </tr>
+
 <tr>
 <td align="center"><b>📱 Mobile & App Stuff</b></td>
 <td>Flutter · Material Design 3 · Firebase · Room Database</td>
 </tr>
+
 <tr>
 <td align="center"><b>🗃️ Data & Engineering</b></td>
 <td>DBMS · Big Data · DSA · OOP · System Design · Agile</td>
@@ -204,6 +269,7 @@ Not just collecting tech names — actually getting my hands dirty with the conc
 <a href="https://github.com/simnexis/Bloomly">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=simnexis&repo=Bloomly&theme=github_dark&hide_border=true&description_lines_count=2" width="420" alt="Bloomly">
 </a>
+
 <a href="https://github.com/simnexis/AeroMagic">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=simnexis&repo=AeroMagic&theme=github_dark&hide_border=true&description_lines_count=2" width="420" alt="AeroMagic">
 </a>
@@ -222,7 +288,11 @@ A real-time computer vision project that uses webcam-based hand tracking to crea
 
 **Tech stack:** Python · OpenCV · MediaPipe · NumPy
 
-[Explore AeroMagic →](https://github.com/simnexis/AeroMagic)
+<p align="center">
+  <a href="https://github.com/simnexis/AeroMagic">
+    <img src="https://img.shields.io/badge/Explore-AeroMagic-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore AeroMagic">
+  </a>
+</p>
 
 ---
 
