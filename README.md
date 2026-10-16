@@ -178,42 +178,6 @@ The process is simple:
 </tr>
 </table>
 
-### 🔬 Things I've Learned by Building
-
-Not just collecting tech names — actually getting my hands dirty with the concepts.
-
-<table align="center" width="85%">
-<tr>
-
-<td width="50%" valign="top">
-
-#### 👁️ Computer Vision
-
-- 📷 Real-time webcam frame processing
-- 🖐️ Hand landmark detection with MediaPipe
-- 🎯 Using hand positions to control visual effects
-- 🌀 Image processing with OpenCV
-- ✨ Connecting tracking data to interactive rendering
-- 🔄 Understanding a real-time processing pipeline
-
-</td>
-
-<td width="50%" valign="top">
-
-#### 🛠️ Practical Engineering
-
-- 🐍 Creating isolated Python environments
-- 📦 Managing package dependencies and versions
-- 🔍 Debugging Python errors and API compatibility
-- 🧪 Verifying package installations and runtime behavior
-- 🌿 Using Git to track project changes
-- 🚀 Publishing projects on GitHub
-- 📝 Writing project documentation in Markdown
-
-</td>
-
-</tr>
-</table>
 
 <div align="center">
 
