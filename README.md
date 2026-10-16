@@ -2,7 +2,6 @@
 
 # Simran Gupta
 
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1800&pause=650&color=58A6FF&center=true&vCenter=true&width=650&lines=404%3A+sleep+not+found.;model+go+brrr.;currently+in+my+AI+era.;debugging+IRL.;one+more+commit.;plot+twist%3A+it+worked.;AI+%2B+caffeine.;building+things+that+learn." alt="Typing Animation">
 
 <br>
@@ -23,6 +22,7 @@
 </div>
 
 <br>
+
 <div align="center">
 
 > **Somewhere between `git push` and Artificial Intelligence.**
@@ -31,7 +31,6 @@
 
 <table>
 <tr>
-
 <td width="60%" valign="top">
 
 <h2>🫠 Who Even Am I</h2>
@@ -64,84 +63,31 @@ The process is simple:
 <h2>⚙️ character stats</h2>
 
 <table>
-<tr>
-<td><b>🪪 alias</b></td>
-<td>Simchan</td>
-</tr>
-
-<tr>
-<td><b>🎮 class</b></td>
-<td>AI/ML Builder</td>
-</tr>
-
-<tr>
-<td><b>🧠 main quest</b></td>
-<td>Make Machines Think</td>
-</tr>
-
-<tr>
-<td><b>🐍 weapons</b></td>
-<td>Python · Java · Dart · Kotlin</td>
-</tr>
-
-<tr>
-<td><b>🤖 brain DLC</b></td>
-<td>ML · GenAI · NLP · LLMs</td>
-</tr>
-
-<tr>
-<td><b>📱 side quest</b></td>
-<td>Flutter · Material Design 3</td>
-</tr>
-
-<tr>
-<td><b>🔥 backend magic</b></td>
-<td>Firebase · Room Database</td>
-</tr>
-
-<tr>
-<td><b>📊 data damage</b></td>
-<td>DBMS · Big Data</td>
-</tr>
-
-<tr>
-<td><b>⚔️ skill tree</b></td>
-<td>DSA · OOP · System Design</td>
-</tr>
-
-<tr>
-<td><b>💰 domain arc</b></td>
-<td>FinTech</td>
-</tr>
-
-<tr>
-<td><b>🧪 currently cooking</b></td>
-<td>Advanced ML · GenAI</td>
-</tr>
-
-<tr>
-<td><b>💀 known bug</b></td>
-<td>Sleep not found</td>
-</tr>
-
-<tr>
-<td><b>📈 XP</b></td>
-<td>still grinding...</td>
-</tr>
-
+<tr><td><b>🪪 alias</b></td><td>Simchan</td></tr>
+<tr><td><b>🎮 class</b></td><td>AI/ML Builder</td></tr>
+<tr><td><b>🧠 main quest</b></td><td>Make Machines Think</td></tr>
+<tr><td><b>🐍 weapons</b></td><td>Python · Java · Dart · Kotlin</td></tr>
+<tr><td><b>🤖 brain DLC</b></td><td>ML · GenAI · NLP · LLMs</td></tr>
+<tr><td><b>📱 side quest</b></td><td>Flutter · Material Design 3</td></tr>
+<tr><td><b>🔥 backend magic</b></td><td>Firebase · Room Database</td></tr>
+<tr><td><b>📊 data damage</b></td><td>DBMS · Big Data</td></tr>
+<tr><td><b>⚔️ skill tree</b></td><td>DSA · OOP · System Design</td></tr>
+<tr><td><b>💰 domain arc</b></td><td>FinTech</td></tr>
+<tr><td><b>🧪 currently cooking</b></td><td>Advanced ML · GenAI</td></tr>
+<tr><td><b>💀 known bug</b></td><td>Sleep not found</td></tr>
+<tr><td><b>📈 XP</b></td><td>still grinding...</td></tr>
 </table>
 
 </td>
-
 </tr>
 </table>
 
 ---
+
 ## 🧨 Things I'm Currently Breaking
 
 <table align="center" width="85%">
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🤖 Making The Machines Do Stuff
@@ -153,9 +99,9 @@ The process is simple:
 - 📱 Flutter apps
 - 🔥 Firebase-powered things
 - 🗄️ Room Database projects
+- 👁️ Computer vision experiments
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🧠 Stuff My Brain Is Fighting
@@ -169,11 +115,53 @@ The process is simple:
 - 🧩 DSA & problem solving
 
 </td>
-
 </tr>
 </table>
 
 ---
+
+## 🧠 Things I've Learned by Building
+
+Not just collecting tech names — actually getting my hands dirty with the concepts.
+
+<table align="center" width="85%">
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision
+
+- 📷 Real-time webcam frame processing
+- 🖐️ Hand landmark detection with MediaPipe
+- 🎯 Using hand positions to control visual effects
+- 🌀 Image processing with OpenCV
+- ✨ Connecting tracking data to interactive rendering
+- 🔄 Building a real-time processing pipeline
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Practical Engineering
+
+- 🐍 Creating isolated Python environments
+- 📦 Managing package dependencies and versions
+- 🔍 Debugging Python errors and API compatibility
+- 🧪 Verifying package installations and runtime behavior
+- 🌿 Using Git to track project changes
+- 🚀 Publishing and maintaining projects on GitHub
+- 📝 Writing project documentation in Markdown
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*build → break → debug → understand → build better.*
+
+</div>
+
+---
+
 ## 🧰 Tech I Keep Summoning
 
 <p align="center">
@@ -185,17 +173,18 @@ The process is simple:
 <td width="38%" align="center"><b>🧠 Languages & Core</b></td>
 <td>Python · Java · Dart · Kotlin · JavaScript · R</td>
 </tr>
-
 <tr>
 <td align="center"><b>🤖 AI / ML / GenAI</b></td>
 <td>Machine Learning · GenAI · NLP · LLMs · ML Models</td>
 </tr>
-
+<tr>
+<td align="center"><b>👁️ Computer Vision</b></td>
+<td>OpenCV · MediaPipe · NumPy</td>
+</tr>
 <tr>
 <td align="center"><b>📱 Mobile & App Stuff</b></td>
 <td>Flutter · Material Design 3 · Firebase · Room Database</td>
 </tr>
-
 <tr>
 <td align="center"><b>🗃️ Data & Engineering</b></td>
 <td>DBMS · Big Data · DSA · OOP · System Design · Agile</td>
@@ -206,6 +195,8 @@ The process is simple:
 🧬 <b>GenAI · LLMs · NLP · ML Models</b>
 </p>
 
+---
+
 ## 🌸 Things I Actually Made
 
 <p align="center">
@@ -213,9 +204,27 @@ The process is simple:
 <a href="https://github.com/simnexis/Bloomly">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=simnexis&repo=Bloomly&theme=github_dark&hide_border=true&description_lines_count=2" width="420" alt="Bloomly">
 </a>
+<a href="https://github.com/simnexis/AeroMagic">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=simnexis&repo=AeroMagic&theme=github_dark&hide_border=true&description_lines_count=2" width="420" alt="AeroMagic">
+</a>
 
 </p>
 
+### ✨ AeroMagic — Turning Hand Movements Into Magic
+
+A real-time computer vision project that uses webcam-based hand tracking to create glowing, mystical sphere effects that respond to hand movement.
+
+- 🖐️ Hand landmark detection with MediaPipe
+- 📷 Real-time camera processing with OpenCV
+- 🔮 Interactive glowing sphere effects
+- 📏 Dynamic effect scaling based on apparent hand size
+- 🐍 Python environment and dependency management
+
+**Tech stack:** Python · OpenCV · MediaPipe · NumPy
+
+[Explore AeroMagic →](https://github.com/simnexis/AeroMagic)
+
+---
 
 ## 📊 GitHub, But Make It Evidence
 
@@ -236,3 +245,13 @@ The process is simple:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=simnexis&theme=github-dark-blue&hide_border=true" width="70%" alt="Simran's GitHub Streak">
 
 </p>
+
+---
+
+<div align="center">
+
+**Still learning. Still building. Still debugging.**
+
+*One project, one bug, one new thing learned at a time.* ✨
+
+</div>
