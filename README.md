@@ -240,17 +240,6 @@ The process is simple:
 
 </p>
 
-### ✨ AeroMagic — Turning Hand Movements Into Magic
-
-A real-time computer vision project that uses webcam-based hand tracking to create glowing, mystical sphere effects that respond to hand movement.
-
-- 🖐️ Hand landmark detection with MediaPipe
-- 📷 Real-time camera processing with OpenCV
-- 🔮 Interactive glowing sphere effects
-- 📏 Dynamic effect scaling based on apparent hand size
-- 🐍 Python environment and dependency management
-
-**Tech stack:** Python · OpenCV · MediaPipe · NumPy
 
 <p align="center">
   <a href="https://github.com/simnexis/AeroMagic">
