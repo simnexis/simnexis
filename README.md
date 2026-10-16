@@ -1,238 +1,170 @@
-<div align="center">
+ <div align="center">
 
 # Simran Gupta
 
+### AI/ML Developer · Computer Vision · Generative AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1800&pause=650&color=58A6FF&center=true&vCenter=true&width=650&lines=404%3A+sleep+not+found.;model+go+brrr.;currently+in+my+AI+era.;debugging+IRL.;one+more+commit.;plot+twist%3A+it+worked.;AI+%2B+caffeine.;building+things+that+learn." alt="Typing Animation">
+Building practical applications, exploring intelligent systems, and learning by shipping real projects.
 
-<br>
+<br/>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://github.com/simnexis">
+  <img src="https://img.shields.io/badge/GitHub-simnexis-181717?style=flat-square&logo=github" alt="GitHub"/>
+</a>
 <a href="mailto:guptasimransushma@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/gupta-simran-roshan-62b567376/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
 </a>
 
-<br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=simnexis&style=for-the-badge&color=58A6FF&label=👀+VIEWS" alt="Profile Views">
-<img src="https://img.shields.io/github/followers/simnexis?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=7C3AED" alt="GitHub Followers">
-<img src="https://img.shields.io/github/stars/simnexis?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=F59E0B" alt="GitHub Stars">
+<img src="https://komarev.com/ghpvc/?username=simnexis&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
+
 </div>
 
-<br>
+---
+
+## About Me
+
+Hi, I'm **Simran Gupta**, also known as **Simchan**.
+
+I'm interested in Artificial Intelligence, Machine Learning, Generative AI, Natural Language Processing, and building software that solves practical problems.
+
+I enjoy exploring new technologies, turning ideas into working applications, and understanding the engineering behind them. My approach is simple: build, experiment, debug, learn, and improve.
+
+- **Primary interests:** AI/ML, Computer Vision, Generative AI, NLP, and LLMs
+- **Programming:** Python, Java, Dart, Kotlin, and JavaScript
+- **Application development:** Flutter, Firebase, and Room Database
+- **Current focus:** Strengthening my machine learning foundations and building practical projects
+
+---
+
+## Technical Skills
+
+<table>
+  <tr>
+    <td width="25%"><strong>Programming Languages</strong></td>
+    <td>Python · Java · Dart · Kotlin · JavaScript · R</td>
+  </tr>
+  <tr>
+    <td><strong>AI & Machine Learning</strong></td>
+    <td>Machine Learning · Generative AI · NLP · LLMs</td>
+  </tr>
+  <tr>
+    <td><strong>Computer Vision</strong></td>
+    <td>OpenCV · MediaPipe · NumPy</td>
+  </tr>
+  <tr>
+    <td><strong>Mobile Development</strong></td>
+    <td>Flutter · Material Design 3</td>
+  </tr>
+  <tr>
+    <td><strong>Backend & Data</strong></td>
+    <td>Firebase · Room Database · DBMS · Big Data</td>
+  </tr>
+  <tr>
+    <td><strong>Core CS</strong></td>
+    <td>Data Structures & Algorithms · OOP · System Design</td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>Git · GitHub · VS Code</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,dart,kotlin,flutter,firebase,js,r,html,css,git,github,vscode&theme=dark" alt="Technologies and development tools"/>
+</p>
+
+---
+
+## Featured Projects
+
+Projects where I explore ideas, apply technical concepts, and develop practical software.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/simnexis/AeroMagic">AeroMagic</a></h3>
+      <p><strong>Real-Time Computer Vision & Interactive Visual Effects</strong></p>
+      <p>A webcam-based application that tracks hand landmarks and creates glowing, mystical visual effects that respond to hand movement.</p>
+      <p><strong>Key concepts</strong></p>
+      <ul>
+        <li>Real-time webcam processing</li>
+        <li>Hand landmark detection</li>
+        <li>Interactive visual rendering</li>
+        <li>Python environment and dependency management</li>
+      </ul>
+      <p><strong>Technologies:</strong> Python, OpenCV, MediaPipe, NumPy</p>
+      <p><a href="https://github.com/simnexis/AeroMagic">View repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/simnexis/Bloomly">Bloomly</a></h3>
+      <p><strong>Application Development</strong></p>
+      <p>Explore my application development work, implementation decisions, and project code in the repository.</p>
+      <p><strong>Project details:</strong> See the repository for the implemented features, technology stack, and setup instructions.</p>
+      <p><a href="https://github.com/simnexis/Bloomly">View repository →</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Practical Learning
+
+I focus on learning concepts by applying them in working projects rather than relying on theory alone.
+
+### Computer Vision
+
+- Working with webcam input and real-time image processing.
+- Exploring hand landmark detection using MediaPipe.
+- Using detected hand positions to control visual effects.
+- Applying OpenCV and NumPy in a computer vision pipeline.
+- Understanding how camera input, tracking, and rendering work together.
+
+### Software Development
+
+- Creating isolated Python environments for projects.
+- Managing package installations and version compatibility.
+- Debugging errors by inspecting tracebacks and testing fixes.
+- Using Git and GitHub to manage and publish source code.
+- Writing project documentation and setup instructions.
+
+### Currently Exploring
+
+Machine Learning · Deep Learning · Generative AI · NLP · Large Language Models
+
+---
+
+## GitHub Activity
+
 <div align="center">
 
-> **Somewhere between `git push` and Artificial Intelligence.**
+<a href="https://github.com/simnexis">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=simnexis&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/simnexis">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simnexis&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most-used languages"/>
+</a>
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=simnexis&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-<h2>🫠 Who Even Am I</h2>
-
-<p>
-I'm <strong>Simran</strong> — <strong>Simchan</strong> in the lore. 🧃
-Somewhere along the way I got obsessed with <strong>AI/ML, GenAI, NLP, LLMs</strong> and the idea of making computers do things that look suspiciously intelligent.
-</p>
-
-<p>
-I throw random ideas at a code editor and see what survives.
-Sometimes I build something cool. Sometimes I create a bug so powerful it becomes a feature.
-</p>
-
-<p>
-My current inventory includes
-<strong>Python · Java · Dart · Kotlin · Flutter · Material Design 3 · ML Models · LLMs · Firebase · DBMS · Big Data</strong>,
-with <strong>GenAI</strong> currently occupying approximately 87% of my brain.
-</p>
-
-<p>
-The process is simple:
-<strong>build → break → question reality → debug → rebuild → ship.</strong>
-</p>
-
-</td>
-
-<td width="40%" valign="top">
-
-<h2>⚙️ character stats</h2>
-
-<table>
-<tr>
-<td><b>🪪 alias</b></td>
-<td>Simchan</td>
-</tr>
-
-<tr>
-<td><b>🎮 class</b></td>
-<td>AI/ML Builder</td>
-</tr>
-
-<tr>
-<td><b>🧠 main quest</b></td>
-<td>Make Machines Think</td>
-</tr>
-
-<tr>
-<td><b>🐍 weapons</b></td>
-<td>Python · Java · Dart · Kotlin</td>
-</tr>
-
-<tr>
-<td><b>🤖 brain DLC</b></td>
-<td>ML · GenAI · NLP · LLMs</td>
-</tr>
-
-<tr>
-<td><b>📱 side quest</b></td>
-<td>Flutter · Material Design 3</td>
-</tr>
-
-<tr>
-<td><b>🔥 backend magic</b></td>
-<td>Firebase · Room Database</td>
-</tr>
-
-<tr>
-<td><b>📊 data damage</b></td>
-<td>DBMS · Big Data</td>
-</tr>
-
-<tr>
-<td><b>⚔️ skill tree</b></td>
-<td>DSA · OOP · System Design</td>
-</tr>
-
-<tr>
-<td><b>💰 domain arc</b></td>
-<td>FinTech</td>
-</tr>
-
-<tr>
-<td><b>🧪 currently cooking</b></td>
-<td>Advanced ML · GenAI</td>
-</tr>
-
-<tr>
-<td><b>💀 known bug</b></td>
-<td>Sleep not found</td>
-</tr>
-
-<tr>
-<td><b>📈 XP</b></td>
-<td>still grinding...</td>
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-</table>
-
 ---
-## 🧨 Things I'm Currently Breaking
 
-<table align="center" width="85%">
-<tr>
+## Beyond the Code
 
-<td width="50%" valign="top">
+I like exploring new ideas, experimenting with technologies, and learning how different parts of a software system fit together.
 
-### 🤖 Making The Machines Do Stuff
+My goal is to keep building projects that turn what I learn into something practical, useful, and worth sharing.
 
-- 🧠 AI/ML experiments
-- 🧬 ML models
-- ✨ GenAI chaos
-- 🗣️ NLP experiments
-- 📱 Flutter apps
-- 🔥 Firebase-powered things
-- 🗄️ Room Database projects
+<div align="center">
 
-</td>
+**Build thoughtfully. Learn continuously. Improve with every commit.**
 
-<td width="50%" valign="top">
-
-### 🧠 Stuff My Brain Is Fighting
-
-- 🧬 Advanced Machine Learning
-- 🧠 Deep Learning
-- ✨ Generative AI
-- 🗣️ NLP & LLM workflows
-- ⚙️ AI system design
-- 🐍 Python for ML
-- 🧩 DSA & problem solving
-
-</td>
-
-</tr>
-</table>
-
----
-## 🧰 Tech I Keep Summoning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,dart,kotlin,flutter,firebase,js,r,html,css,git,github,vscode&theme=dark" alt="Tech Stack">
-</p>
-
-<table align="center">
-<tr>
-<td width="38%" align="center"><b>🧠 Languages & Core</b></td>
-<td>Python · Java · Dart · Kotlin · JavaScript · R</td>
-</tr>
-
-<tr>
-<td align="center"><b>🤖 AI / ML / GenAI</b></td>
-<td>Machine Learning · GenAI · NLP · LLMs · ML Models</td>
-</tr>
-
-<tr>
-<td align="center"><b>📱 Mobile & App Stuff</b></td>
-<td>Flutter · Material Design 3 · Firebase · Room Database</td>
-</tr>
-
-<tr>
-<td align="center"><b>🗃️ Data & Engineering</b></td>
-<td>DBMS · Big Data · DSA · OOP · System Design · Agile</td>
-</tr>
-</table>
-
-<p align="center">
-🧬 <b>GenAI · LLMs · NLP · ML Models</b>
-</p>
-
-## 🌸 Things I Actually Made
-
-<p align="center">
-
-<a href="https://github.com/simnexis/Bloomly">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=simnexis&repo=Bloomly&theme=github_dark&hide_border=true&description_lines_count=2" width="420" alt="Bloomly">
-</a>
-
-</p>
-
-
-## 📊 GitHub, But Make It Evidence
-
-<p align="center">
-
-<a href="https://github.com/simnexis">
-<img src="https://github-readme-stats.vercel.app/api?username=simnexis&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" height="180" alt="Simran's GitHub Stats">
-</a>
-
-<a href="https://github.com/simnexis">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simnexis&layout=compact&langs_count=6&hide_border=true&theme=github_dark" height="180" alt="Simran's Top Languages">
-</a>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=simnexis&theme=github-dark-blue&hide_border=true" width="70%" alt="Simran's GitHub Streak">
-
-</p>
+</div>
