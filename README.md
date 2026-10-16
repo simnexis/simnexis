@@ -4,27 +4,33 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1800&pause=650&color=58A6FF&center=true&vCenter=true&width=650&lines=404%3A+sleep+not+found.;model+go+brrr.;currently+in+my+AI+era.;debugging+IRL.;one+more+commit.;plot+twist%3A+it+worked.;AI+%2B+caffeine.;building+things+that+learn." alt="Typing Animation">
 
-<br><br>
+<br>
 
-<a href="https://github.com/simnexis"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:guptasimransushma@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/gupta-simran-roshan-62b567376/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="mailto:guptasimransushma@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/gupta-simran-roshan-62b567376/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=simnexis&style=for-the-badge&color=58A6FF&label=👀+VIEWS" alt="Profile Views">
 <img src="https://img.shields.io/github/followers/simnexis?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=7C3AED" alt="GitHub Followers">
 <img src="https://img.shields.io/github/stars/simnexis?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=F59E0B" alt="GitHub Stars">
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 > **Somewhere between `git push` and Artificial Intelligence.**
 
 </div>
 
----
-
-<table width="100%">
+<table>
 <tr>
 <td width="60%" valign="top">
 
@@ -52,25 +58,81 @@ The process is simple:
 </p>
 
 </td>
+
 <td width="40%" valign="top">
 
 <h2>⚙️ character stats</h2>
 
-<table width="100%">
-<tr><td><b>🪪 alias</b></td><td>Simchan</td></tr>
-<tr><td><b>🎮 class</b></td><td>AI/ML Builder</td></tr>
-<tr><td><b>🧠 main quest</b></td><td>Make Machines Think</td></tr>
-<tr><td><b>🐍 weapons</b></td><td>Python · Java · Dart · Kotlin</td></tr>
-<tr><td><b>🤖 brain DLC</b></td><td>ML · GenAI · NLP · LLMs</td></tr>
-<tr><td><b>👁️ vision arc</b></td><td>Computer Vision</td></tr>
-<tr><td><b>📱 side quest</b></td><td>Flutter · Material Design 3</td></tr>
-<tr><td><b>🔥 backend magic</b></td><td>Firebase · Room Database</td></tr>
-<tr><td><b>📊 data damage</b></td><td>DBMS · Big Data</td></tr>
-<tr><td><b>⚔️ skill tree</b></td><td>DSA · OOP · System Design</td></tr>
-<tr><td><b>💰 domain arc</b></td><td>FinTech</td></tr>
-<tr><td><b>🧪 currently cooking</b></td><td>Advanced ML · GenAI</td></tr>
-<tr><td><b>💀 known bug</b></td><td>Sleep not found</td></tr>
-<tr><td><b>📈 XP</b></td><td>still grinding...</td></tr>
+<table>
+<tr>
+<td><b>🪪 alias</b></td>
+<td>Simchan</td>
+</tr>
+
+<tr>
+<td><b>🎮 class</b></td>
+<td>AI/ML Builder</td>
+</tr>
+
+<tr>
+<td><b>🧠 main quest</b></td>
+<td>Make Machines Think</td>
+</tr>
+
+<tr>
+<td><b>🐍 weapons</b></td>
+<td>Python · Java · Dart · Kotlin</td>
+</tr>
+
+<tr>
+<td><b>🤖 brain DLC</b></td>
+<td>ML · GenAI · NLP · LLMs</td>
+</tr>
+
+<tr>
+<td><b>👁️ vision arc</b></td>
+<td>Computer Vision</td>
+</tr>
+
+<tr>
+<td><b>📱 side quest</b></td>
+<td>Flutter · Material Design 3</td>
+</tr>
+
+<tr>
+<td><b>🔥 backend magic</b></td>
+<td>Firebase · Room Database</td>
+</tr>
+
+<tr>
+<td><b>📊 data damage</b></td>
+<td>DBMS · Big Data</td>
+</tr>
+
+<tr>
+<td><b>⚔️ skill tree</b></td>
+<td>DSA · OOP · System Design</td>
+</tr>
+
+<tr>
+<td><b>💰 domain arc</b></td>
+<td>FinTech</td>
+</tr>
+
+<tr>
+<td><b>🧪 currently cooking</b></td>
+<td>Advanced ML · GenAI</td>
+</tr>
+
+<tr>
+<td><b>💀 known bug</b></td>
+<td>Sleep not found</td>
+</tr>
+
+<tr>
+<td><b>📈 XP</b></td>
+<td>still grinding...</td>
+</tr>
 </table>
 
 </td>
@@ -81,71 +143,77 @@ The process is simple:
 
 ## 🧨 Things I'm Currently Breaking
 
-<table width="100%">
+<table align="center" width="85%">
 <tr>
+
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 Making The Machines Do Stuff</h3>
+### 🤖 Making The Machines Do Stuff
 
-<ul>
-<li>🧠 AI/ML experiments</li>
-<li>🧬 ML models</li>
-<li>✨ GenAI chaos</li>
-<li>🗣️ NLP experiments</li>
-<li>👁️ Computer Vision projects</li>
-<li>📱 Flutter apps</li>
-<li>🔥 Firebase-powered things</li>
-<li>🗄️ Room Database projects</li>
-</ul>
+- 🧠 AI/ML experiments
+- 🧬 ML models
+- ✨ GenAI chaos
+- 🗣️ NLP experiments
+- 👁️ Computer Vision projects
+- 📱 Flutter apps
+- 🔥 Firebase-powered things
+- 🗄️ Room Database projects
 
 </td>
+
 <td width="50%" valign="top">
 
-<h3 align="center">🧠 Stuff My Brain Is Fighting</h3>
+### 🧠 Stuff My Brain Is Fighting
 
-<ul>
-<li>🧬 Advanced Machine Learning</li>
-<li>🧠 Deep Learning</li>
-<li>✨ Generative AI</li>
-<li>🗣️ NLP & LLM workflows</li>
-<li>⚙️ AI system design</li>
-<li>🐍 Python for ML</li>
-<li>🧩 DSA & problem solving</li>
-</ul>
+- 🧬 Advanced Machine Learning
+- 🧠 Deep Learning
+- ✨ Generative AI
+- 🗣️ NLP & LLM workflows
+- ⚙️ AI system design
+- 🐍 Python for ML
+- 🧩 DSA & problem solving
 
 </td>
+
 </tr>
 </table>
 
-<p align="center">
-<strong>build → break → debug → understand → rebuild → ship.</strong>
-</p>
+
+<div align="center">
+
+> build → break → debug → understand → rebuild → ship.
+
+</div>
 
 ---
 
 ## 🧰 Tech I Keep Summoning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,dart,kotlin,flutter,firebase,js,r,html,css,git,github,vscode&theme=dark" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=python,java,dart,kotlin,flutter,firebase,js,r,html,css,git,github,vscode&theme=dark" alt="Tech Stack">
 </p>
 
-<table width="100%">
+<table align="center">
 <tr>
 <td width="38%" align="center"><b>🧠 Languages & Core</b></td>
-<td width="62%">Python · Java · Dart · Kotlin · JavaScript · R</td>
+<td>Python · Java · Dart · Kotlin · JavaScript · R</td>
 </tr>
+
 <tr>
 <td align="center"><b>🤖 AI / ML / GenAI</b></td>
 <td>Machine Learning · GenAI · NLP · LLMs · ML Models</td>
 </tr>
+
 <tr>
 <td align="center"><b>👁️ Computer Vision</b></td>
 <td>OpenCV · MediaPipe · NumPy</td>
 </tr>
+
 <tr>
 <td align="center"><b>📱 Mobile & App Stuff</b></td>
 <td>Flutter · Material Design 3 · Firebase · Room Database</td>
 </tr>
+
 <tr>
 <td align="center"><b>🗃️ Data & Engineering</b></td>
 <td>DBMS · Big Data · DSA · OOP · System Design · Agile</td>
@@ -160,45 +228,46 @@ The process is simple:
 
 ## 🌸 Things I Actually Made
 
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
+<p align="center">
+
 <a href="https://github.com/simnexis/Bloomly">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=simnexis&repo=Bloomly&theme=github_dark&hide_border=true&description_lines_count=2" width="100%" alt="Bloomly">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=simnexis&repo=Bloomly&theme=github_dark&hide_border=true&description_lines_count=2" width="420" alt="Bloomly">
 </a>
-</td>
-<td width="50%" align="center" valign="top">
+
 <a href="https://github.com/simnexis/AeroMagic">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=simnexis&repo=AeroMagic&theme=github_dark&hide_border=true&description_lines_count=2" width="100%" alt="AeroMagic">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=simnexis&repo=AeroMagic&theme=github_dark&hide_border=true&description_lines_count=2" width="420" alt="AeroMagic">
 </a>
-</td>
-</tr>
-</table>
+
+</p>
+
 
 <p align="center">
-<a href="https://github.com/simnexis/AeroMagic">
-<img src="https://img.shields.io/badge/Explore-AeroMagic-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore AeroMagic">
-</a>
+  <a href="https://github.com/simnexis/AeroMagic">
+    <img src="https://img.shields.io/badge/Explore-AeroMagic-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore AeroMagic">
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub, But Make It Evidence
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/simnexis">
 <img src="https://github-readme-stats.vercel.app/api?username=simnexis&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" height="180" alt="Simran's GitHub Stats">
 </a>
+
 <a href="https://github.com/simnexis">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simnexis&layout=compact&langs_count=6&hide_border=true&theme=github_dark" height="180" alt="Simran's Top Languages">
 </a>
 
-<br><br>
+</p>
+
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=simnexis&theme=github-dark-blue&hide_border=true" width="70%" alt="Simran's GitHub Streak">
 
-</div>
+</p>
 
 ---
 
