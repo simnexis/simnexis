@@ -238,6 +238,10 @@ The process is simple:
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=simnexis&repo=AeroMagic&theme=github_dark&hide_border=true&description_lines_count=2" width="420" alt="AeroMagic">
 </a>
 
+<a href="https://github.com/simnexis/AeroMagic">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=simnexis&repo=biomentor-ai&theme=github_dark&hide_border=true&description_lines_count=2" width="420" alt="AeroMagic">
+</a>
+
 </p>
 
 
