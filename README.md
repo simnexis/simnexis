@@ -1,139 +1,69 @@
 <div align="center">
 
-# Simran Gupta
+# ⚡ Simran Gupta (Simchan)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1800&pause=650&color=58A6FF&center=true&vCenter=true&width=650&lines=404%3A+sleep+not+found.;model+go+brrr.;currently+in+my+AI+era.;debugging+IRL.;one+more+commit.;plot+twist%3A+it+worked.;AI+%2B+caffeine.;building+things+that+learn." alt="Typing Animation">
-
-<br>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<a href="mailto:guptasimransushma@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://www.linkedin.com/in/gupta-simran-roshan-62b567376/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%C2%B7+Edge+Computer+Vision+%C2%B7+RAG+Systems;sub-1.2ms+FAISS+retrieval+%7C+30+FPS+CPU-only+vision;98.8%25+sensitivity+clinical+ML+pipeline+with+SHAP;native+Android+%2B+Gemini+2.0+Flash+AI+tutor;model+go+brrr+%F0%9F%A7%A0;building+systems+that+actually+ship+%E2%9C%A8" alt="Typing Animation">
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=simnexis&style=for-the-badge&color=58A6FF&label=👀+VIEWS" alt="Profile Views">
-<img src="https://img.shields.io/github/followers/simnexis?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=7C3AED" alt="GitHub Followers">
-<img src="https://img.shields.io/github/stars/simnexis?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=F59E0B" alt="GitHub Stars">
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simnexis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gupta-simran-roshan-62b567376/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptasimransushma@gmail.com)
+[![Live Demos](https://img.shields.io/badge/Live%20Demos-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://biomen-g6hwjhxlhwdvhzb5jfey5w.streamlit.app/)
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=simnexis&style=for-the-badge&color=58A6FF&label=%F0%9F%91%80+VIEWS)](https://github.com/simnexis)
+[![Followers](https://img.shields.io/github/followers/simnexis?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=7C3AED)](https://github.com/simnexis)
+[![Stars](https://img.shields.io/github/stars/simnexis?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=F59E0B)](https://github.com/simnexis)
+
+<br>
+
+> **"Building high-throughput AI systems at the intersection of Computer Vision, RAG architectures, and Edge Engineering."**
 
 </div>
 
-<br>
+---
 
-<div align="center">
-
-> **Somewhere between `git push` and Artificial Intelligence.**
-
-</div>
+### 🎮 Character Stats & Engineering Dossier
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-<h2>🫠 Who Even Am I</h2>
+### 🫠 Who Even Am I
 
-<p>
-I'm <strong>Simran</strong> — <strong>Simchan</strong> in the lore. 🧃
-Somewhere along the way I got obsessed with <strong>AI/ML, GenAI, NLP, LLMs, Computer Vision</strong> and the idea of making computers do things that look suspiciously intelligent.
-</p>
+I'm **Simran** (`@simnexis`) — **Simchan** in the lore. 🧃  
+Machine Learning & Edge Vision engineer obsessed with building high-performance models that **actually run in production** without catching fire.
 
-<p>
-I throw random ideas at a code editor and see what survives.
-Sometimes I build something cool. Sometimes I create a bug so powerful it becomes a feature.
-</p>
+- 🧠 **Multi-Modal AI & Vision**: From sub-1.2ms FAISS vector retrieval to 30 FPS CPU-only YOLO11 & OpenCLIP inference.
+- 🔬 **Clinical ML & Biomedical RAG**: PubMed neural search, Reciprocal Rank Fusion, Cross-Encoder re-ranking, and SHAP explainability.
+- 📱 **Mobile & Android Systems**: Kotlin, Jetpack Compose, Room DB, Hilt DI, and on-device Gemini AI integration.
 
-<p>
-My current inventory includes
-<strong>Python · Java · Dart · Kotlin · Flutter · Material Design 3 · ML Models · LLMs · Firebase · DBMS · Big Data</strong>,
-with <strong>GenAI</strong> currently occupying approximately 87% of my brain.
-</p>
-
-<p>
-The process is simple:
-<strong>build → break → question reality → debug → rebuild → ship.</strong>
-</p>
+The workflow is sacred:
+```text
+build → benchmark → break → optimize → test (100% pass) → ship 🚀
+```
 
 </td>
 
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
-<h2>⚙️ character stats</h2>
+### ⚔️ Player Card
 
-<table>
-<tr>
-<td><b>🪪 alias</b></td>
-<td>Simchan</td>
-</tr>
-
-<tr>
-<td><b>🎮 class</b></td>
-<td>AI/ML Builder</td>
-</tr>
-
-<tr>
-<td><b>🧠 main quest</b></td>
-<td>Make Machines Think</td>
-</tr>
-
-<tr>
-<td><b>🐍 weapons</b></td>
-<td>Python · Java · Dart · Kotlin</td>
-</tr>
-
-<tr>
-<td><b>🤖 brain DLC</b></td>
-<td>ML · GenAI · NLP · LLMs</td>
-</tr>
-
-<tr>
-<td><b>👁️ vision arc</b></td>
-<td>Computer Vision</td>
-</tr>
-
-<tr>
-<td><b>📱 side quest</b></td>
-<td>Flutter · Material Design 3</td>
-</tr>
-
-<tr>
-<td><b>🔥 backend magic</b></td>
-<td>Firebase · Room Database</td>
-</tr>
-
-<tr>
-<td><b>📊 data damage</b></td>
-<td>DBMS · Big Data</td>
-</tr>
-
-<tr>
-<td><b>⚔️ skill tree</b></td>
-<td>DSA · OOP · System Design</td>
-</tr>
-
-<tr>
-<td><b>💰 domain arc</b></td>
-<td>FinTech</td>
-</tr>
-
-<tr>
-<td><b>🧪 currently cooking</b></td>
-<td>Advanced ML · GenAI</td>
-</tr>
-
-<tr>
-<td><b>💀 known bug</b></td>
-<td>Sleep not found</td>
-</tr>
-
-<tr>
-<td><b>📈 XP</b></td>
-<td>still grinding...</td>
-</tr>
-</table>
+| Attribute | Value |
+| :--- | :--- |
+| **🪪 Alias** | `Simchan` (`@simnexis`) |
+| **🎮 Class** | AI/ML Systems & Vision Architect |
+| **🧠 Main Quest** | Sub-millisecond neural edge inference |
+| **🐍 Weapons** | Python · PyTorch · YOLO11 · OpenCLIP |
+| **⚡ Edge Arc** | FAISS HNSW · ONNX INT8 · RapidOCR |
+| **🧬 Brain DLC** | Hybrid RAG · BM25 · Cross-Encoders · SHAP |
+| **📱 Mobile Arc** | Kotlin · Android Clean Arch · Room · Hilt |
+| **🔥 Cloud & API** | FastAPI · Streamlit · Docker · Firebase |
+| **🧪 Test Score** | **360+ automated unit & integration tests** |
+| **💀 Known Bug** | `SleepNotFoundException` |
+| **📈 Status** | Currently cooking next-gen vision models 🍳 |
 
 </td>
 </tr>
@@ -141,144 +71,99 @@ The process is simple:
 
 ---
 
-## 🧨 Things I'm Currently Breaking
+### 🏆 Flagship Systems (Recruiter Highlights)
 
-<table align="center" width="85%">
+<table align="center" width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
-### 🤖 Making The Machines Do Stuff
-
-- 🧠 AI/ML experiments
-- 🧬 ML models
-- ✨ GenAI chaos
-- 🗣️ NLP experiments
-- 👁️ Computer Vision projects
-- 📱 Flutter apps
-- 🔥 Firebase-powered things
-- 🗄️ Room Database projects
+#### 🎯 [VisionTrack AI](https://github.com/simnexis/VisionTrack-AI)
+**Production-grade edge computer vision & multi-modal intelligence — 30 FPS, CPU-only.**
+- **Stack**: YOLO11, OpenCLIP ViT-B/32, FAISS HNSW, RapidOCR ONNX, PyTorch, Streamlit
+- **Highlights**: Zero-shot open-vocabulary detection, sub-1.2ms vector retrieval, learned 14-feature Fusion MLP head, temperature calibration ($ECE ightarrow 0.0236$), and 71% smaller ONNX INT8 footprint.
+- **Validation**: **143/143 tests passing (100%)**.
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🧠 Stuff My Brain Is Fighting
-
-- 🧬 Advanced Machine Learning
-- 🧠 Deep Learning
-- ✨ Generative AI
-- 🗣️ NLP & LLM workflows
-- ⚙️ AI system design
-- 🐍 Python for ML
-- 🧩 DSA & problem solving
+#### 🩺 [BioMentor AI](https://github.com/simnexis/biomentor-ai)
+**High-precision biomedical neural retrieval & clinical reasoning platform.**
+- **Stack**: FAISS, BM25 Okapi, Reciprocal Rank Fusion (RRF), Cross-Encoder Re-Ranking, Gemini 2.5 Flash, Streamlit
+- **Highlights**: Verbatim PubMed citation guardrails, zero hallucination rate on verified clinical guidelines, 6 specialized medical modules.
+- **Validation**: **179/179 tests passing** · [🌐 Live Streamlit App](https://biomen-g6hwjhxlhwdvhzb5jfey5w.streamlit.app/)
 
 </td>
+</tr>
 
+<tr>
+<td width="50%" valign="top">
+
+#### 🧪 [LiverRisk AI](https://github.com/simnexis/liver-disease-prediction)
+**Clinical machine learning & explainable risk stratification engine.**
+- **Stack**: Scikit-Learn 1.9, FastAPI REST, SHAP Waterfall, Streamlit Community Cloud, Docker
+- **Highlights**: 98.8% sensitivity and 95.0% NPV for early hepatic screening; Decision Curve Analysis (DCA); 1,000-run bootstrap confidence intervals.
+- **Validation**: **40/40 tests passing** · [🌐 Live Web Demo](https://8gt6vets6xrcmhjpzgkspk.streamlit.app/)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📱 [SEUREVA](https://github.com/simnexis/SEUREVA)
+**Luxury native Android AI study platform with Google Gemini.**
+- **Stack**: Kotlin, Jetpack Compose, MVVM + Clean Architecture, Hilt DI, Room DB, Gemini 2.0 Flash
+- **Highlights**: Real-time contextual AI tutor, foreground Pomodoro study timer service with persistent notifications, exact alarm scheduling, zero hardcoded keys.
+- **Status**: Securely engineered & production-ready.
+
+</td>
 </tr>
 </table>
 
-
 <div align="center">
 
-> build → break → debug → understand → rebuild → ship.
+[**✨ Explore All Repositories on GitHub →**](https://github.com/simnexis?tab=repositories)
 
 </div>
 
 ---
 
-## 🧰 Tech I Keep Summoning
+### 🧰 Technology Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,dart,kotlin,flutter,firebase,js,r,html,css,git,github,vscode&theme=dark" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,scikitlearn,kotlin,androidstudio,flutter,dart,firebase,docker,git,github,vscode,linux&theme=dark" alt="Tech Arsenal">
 </p>
 
-<table align="center">
-<tr>
-<td width="38%" align="center"><b>🧠 Languages & Core</b></td>
-<td>Python · Java · Dart · Kotlin · JavaScript · R</td>
-</tr>
-
-<tr>
-<td align="center"><b>🤖 AI / ML / GenAI</b></td>
-<td>Machine Learning · GenAI · NLP · LLMs · ML Models</td>
-</tr>
-
-<tr>
-<td align="center"><b>👁️ Computer Vision</b></td>
-<td>OpenCV · MediaPipe · NumPy</td>
-</tr>
-
-<tr>
-<td align="center"><b>📱 Mobile & App Stuff</b></td>
-<td>Flutter · Material Design 3 · Firebase · Room Database</td>
-</tr>
-
-<tr>
-<td align="center"><b>🗃️ Data & Engineering</b></td>
-<td>DBMS · Big Data · DSA · OOP · System Design · Agile</td>
-</tr>
-</table>
-
-<p align="center">
-🧬 <b>GenAI · LLMs · NLP · ML Models</b>
-</p>
+| Domain | Core Technologies & Frameworks |
+| :--- | :--- |
+| **🧠 Deep Learning & Vision** | PyTorch, Ultralytics YOLO11, YOLO-World, OpenCLIP, OpenCV, MediaPipe, MobileNetV3 |
+| **🔍 Search, RAG & Vector Stores** | FAISS (HNSW / FlatL2), BM25 Okapi, Cross-Encoders, PubMed API, RapidOCR ONNX |
+| **📊 Clinical & Tabular ML** | Scikit-Learn Pipelines, SHAP Explainability, Decision Curve Analysis, Optuna, NumPy, Pandas |
+| **🚀 Backend, APIs & Serving** | FastAPI, Streamlit Community Cloud, Docker, Pydantic V2, Uvicorn, REST Microservices |
+| **📱 Native & Mobile** | Android SDK, Kotlin, Jetpack Compose, Room SQLite, Hilt DI, Flutter, Material Design 3 |
+| **🧪 Testing & CI/CD** | Pytest, Ruff, GitHub Actions, MLflow, Parameterized Testing |
 
 ---
 
-## 🌸 Things I Actually Made
+### 📊 GitHub Activity & Verification
 
 <p align="center">
-
-<a href="https://github.com/simnexis/Bloomly">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=simnexis&repo=Bloomly&theme=github_dark&hide_border=true&description_lines_count=2" width="420" alt="Bloomly">
-</a>
-
-<a href="https://github.com/simnexis/AeroMagic">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=simnexis&repo=AeroMagic&theme=github_dark&hide_border=true&description_lines_count=2" width="420" alt="AeroMagic">
-</a>
-
-<a href="https://github.com/simnexis/AeroMagic">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=simnexis&repo=biomentor-ai&theme=github_dark&hide_border=true&description_lines_count=2" width="420" alt="AeroMagic">
-</a>
-
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/simnexis/AeroMagic">
-    <img src="https://img.shields.io/badge/Explore-AeroMagic-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore AeroMagic">
-  </a>
-</p>
-
----
-
-## 📊 GitHub, But Make It Evidence
-
-<p align="center">
-
 <a href="https://github.com/simnexis">
-<img src="https://github-readme-stats.vercel.app/api?username=simnexis&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" height="180" alt="Simran's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=simnexis&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" height="185" alt="GitHub Stats">
 </a>
-
 <a href="https://github.com/simnexis">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simnexis&layout=compact&langs_count=6&hide_border=true&theme=github_dark" height="180" alt="Simran's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simnexis&layout=compact&langs_count=6&hide_border=true&theme=github_dark" height="185" alt="Top Languages">
 </a>
-
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=simnexis&theme=github-dark-blue&hide_border=true" width="70%" alt="Simran's GitHub Streak">
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simnexis&theme=github-dark-blue&hide_border=true" width="75%" alt="GitHub Streak">
 </p>
 
 ---
 
 <div align="center">
 
-**Still learning. Still building. Still debugging.**
+**"The code speaks for itself — benchmarks verify it, tests prove it."** ✨
 
-*One project, one bug, one new thing learned at a time.* ✨
+[![LinkedIn Connect](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gupta-simran-roshan-62b567376/)
+[![Send an Email](https://img.shields.io/badge/Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptasimransushma@gmail.com)
 
 </div>
