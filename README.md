@@ -61,7 +61,7 @@ build → benchmark → break → optimize → test (100% pass) → ship 🚀
 | **🧬 Brain DLC** | Hybrid RAG · BM25 · Cross-Encoders · SHAP |
 | **📱 Mobile Arc** | Kotlin · Android Clean Arch · Room · Hilt |
 | **🔥 Cloud & API** | FastAPI · Streamlit · Docker · Firebase |
-| **🧪 Test Score** | **360+ automated unit & integration tests** |
+| **🧪 Test Score** | **370+ automated unit & integration tests** |
 | **💀 Known Bug** | `SleepNotFoundException` |
 | **📈 Status** | Currently cooking next-gen vision models 🍳 |
 
@@ -107,11 +107,32 @@ build → benchmark → break → optimize → test (100% pass) → ship 🚀
 </td>
 <td width="50%" valign="top">
 
+#### 💊 [MediLens RAG](https://github.com/simnexis/medilens-rag)
+**Edge multimodal medicine verification & Hindi prescription translation assistant.**
+- **Stack**: OpenCV, Tesseract OCR, Fuzzy Levenshtein Matching, Multilingual Knowledge Base, Streamlit
+- **Highlights**: Scans degraded pharmaceutical packaging in real-time, extracts active salt compositions, and provides bilingual Hindi/English contraindication alerts.
+- **Validation**: **8/8 tests passing (100%)**.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 #### 📱 [SEUREVA](https://github.com/simnexis/SEUREVA)
 **Luxury native Android AI study platform with Google Gemini.**
 - **Stack**: Kotlin, Jetpack Compose, MVVM + Clean Architecture, Hilt DI, Room DB, Gemini 2.0 Flash
 - **Highlights**: Real-time contextual AI tutor, foreground Pomodoro study timer service with persistent notifications, exact alarm scheduling, zero hardcoded keys.
-- **Status**: Securely engineered & production-ready.
+- **Status**: Clean 2-commit history, securely engineered & production-ready.
+
+</td>
+<td width="50%" valign="top">
+
+#### ✨ [AeroMagic](https://github.com/simnexis/AeroMagic)
+**Real-time interactive computer vision particle physics powered by MediaPipe.**
+- **Stack**: Python, OpenCV, MediaPipe Hands (21 3D landmarks), NumPy
+- **Highlights**: 60 FPS sub-millisecond hand tracking, multi-layered radiance alpha blending, dynamic depth scaling, and geometric gesture gating.
+- **Status**: Live with demo preview and MIT license.
 
 </td>
 </tr>
